@@ -21,6 +21,7 @@
     "gatsby": "^4.20.0",
     "gatsby-plugin-image": "^2.20.0",
     "gatsby-plugin-mdx": "^3.20.0",
+    "gatsby-plugin-pnpm": "^1.2.10",
     "gatsby-plugin-sass": "^5.20.0",
     "gatsby-plugin-sharp": "^4.20.0",
     "gatsby-plugin-sitemap": "^5.20.0",
